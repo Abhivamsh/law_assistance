@@ -1,5 +1,5 @@
 {
-  "name": "LAW-ASSISTANT-MAIN",
+  "name": "law",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -13,6 +13,7 @@
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "mongoose": "^8.5.0"
+    "mongoose": "^8.5.0",
+    "vite": "^5.4.8"
   }
 }
