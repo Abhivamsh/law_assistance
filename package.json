@@ -16,5 +16,8 @@
     "mongoose": "^8.5.0",
     "react-router-dom": "^6.26.2",
     "vite": "^5.4.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1"
   }
 }
