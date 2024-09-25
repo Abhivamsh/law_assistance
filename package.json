@@ -1,10 +1,10 @@
 {
-  "name": "your-project-name", // Replace with your project name
+  "name": "LAW-ASSISTANT-MAIN",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite",                // For local development
-    "build": "vite build",        // For production build
-    "start": "vite preview"       // To serve the built app locally
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
   },
   "dependencies": {
     "axios": "^1.7.2",
